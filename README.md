@@ -58,11 +58,39 @@ player1 [PAPER] VS player2 [ROCK]
 * オブジェクト指向プログラム実装
   * クラス、インスタンスの利用
 
+```
+(lesson2) [vagrant@localhost lesson2]$ python OOD_Janken.py
+```
+
+```
+--- ジャンケン開始 ---
+
+第1回目
+player1(murata) [PAPER] VS player2(yamada) [SCISSORS]
+->result:player2(yamada)の勝利
+
+第2回目
+player1(murata) [ROCK] VS player2(yamada) [SCISSORS]
+->result:player1(murata)の勝利
+
+第3回目
+player1(murata) [ROCK] VS player2(yamada) [SCISSORS]
+->result:player1(murata)の勝利
+
+--- ジャンケン終了---
+
+--- 最終結果---
+勝利数：player1:2回、player2:1回
+player1(murata)の勝利
+```
+
 ### UML適用
 
-* コミュニケーション図で操作や関連を洗い出す
+* コミュニケーション図で操作や流れを洗い出す
 * クラス図での操作と属性の洗い出す
 * アクティビティ図での処理手順の明確にする
+
+* ★作成した図を挿入する★
 
 ## Lesson3
 
@@ -77,6 +105,9 @@ player1 [PAPER] VS player2 [ROCK]
 
 * クラス図で継承の関係を明確にする
 
+* ★作成した図を挿入する★
+
+
 ## Lesson4
 
 ### 概要
@@ -90,6 +121,8 @@ player1 [PAPER] VS player2 [ROCK]
 
 * クラス図で継承の関係を明確にする
 * クラス図で新規クラスとの関係を明確にする
+
+* ★作成した図を挿入する★
 
 ## オブジェクト指向設計手順
 
