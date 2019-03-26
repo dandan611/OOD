@@ -22,21 +22,23 @@ OOD(object-oriented development) learning for Python.
 --- ジャンケン開始 ---
 
 第1回目
-2.1873929596638986
-1.1347214712961056
-結果
+player1 [PAPER] VS player2 [PAPER]
+->result:両者引き分け
 
 第2回目
-0.21814630142122005
-1.5081061347760456
-結果
+player1 [ROCK] VS player2 [PAPER]
+->result:player2の勝利
 
 第3回目
-1.3385368427950737
-1.7802925536342924
-結果
+player1 [PAPER] VS player2 [ROCK]
+->result:player1の勝利
 
 --- ジャンケン終了---
+
+--- 最終結果---
+勝利数：player1:1回、player2:1回
+両者引き分け
+
 
 ```
 
