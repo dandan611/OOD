@@ -103,7 +103,27 @@ player1(murata)の勝利
   * 継承の利用
 
 ```
-★処理結果を記載する
+(lesson3)[vagrant@localhost lesson2]$ python OOD_Janken.py
+--- ジャンケン開始 ---
+
+第1回目
+player1(murata) [PAPER] VS player2(yamada) [PAPER]
+->result:両者引き分け
+
+第2回目
+player1(murata) [PAPER] VS player2(yamada) [PAPER]
+->result:両者引き分け
+
+第3回目
+player1(murata) [PAPER] VS player2(yamada) [PAPER]
+->result:両者引き分け
+
+--- ジャンケン終了---
+
+--- 最終結果---
+勝利数：player1:0回、player2:0回
+両者引き分け
+
 ```
 
 ### UML適用
@@ -124,8 +144,7 @@ player1(murata)の勝利
 
 * クラス図で継承の関係を明確にする
 * クラス図で新規クラスとの関係を明確にする
-
-* ★作成した図を挿入する★
+  * <img src="./lesson4/Doc/01_class.png" width="700">
 
 ## オブジェクト指向設計手順
 
